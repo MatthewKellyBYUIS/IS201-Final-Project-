@@ -1,0 +1,62 @@
+.h1 {
+    font-size: 47px;
+    color: rgb(222, 222, 66);
+    font-family: 'Inter', 'Segoe UI', Roboto, Arial, sans-serif;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.h2 {
+    font-size: 30px;
+    font-family: 'Inter', 'Segoe UI', Roboto, Arial, sans-serif;
+    font-style: italic;
+    color: rgb(59, 57, 57);
+    margin-top: 0;
+}
+
+.header {
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #a7a6a6;
+    border-top: 2px solid #a5b854;
+
+}
+
+
+
+.h3 {
+    font-family: 'Inter', 'Segoe UI', Roboto, Arial, sans-serif;
+    color: rgb(46, 46, 153);
+    font-weight: 580;
+    margin-top: 26px;
+    margin-bottom: 9px;
+    border-bottom: 2px solid #e4e4e4;
+    padding-bottom: 3px;
+    font-size: 26px;
+    text-align: center;
+}
+
+.p {
+    text-indent: 20px;
+    max-width: 1120px;
+}
+
+.body {
+    background-color: #f5f8e1;
+    border: 7px solid rgb(222, 222, 66);   
+    padding: 19px;                         
+    box-sizing: border-box;
+    text-indent: 35px;
+    max-width: 1120px;  
+    margin: 0 auto;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 19px;
+
+}
+
